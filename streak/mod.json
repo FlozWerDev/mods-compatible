@@ -1,0 +1,44 @@
+{
+	"geode": "5.7.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "jotabelike.gd_racha",
+	"name": "Streak!",
+	"version": "v1.10.46",
+	"developer": "XJotabelikeX",
+	"description": "Personal Streak! Prove you're the best and start a streak!",
+	"links": {
+		"community": "https://discord.gg/vEPWBuFEn5"
+	},
+	"tags": [
+		"online",
+		"enhancement",
+		"customization",
+		"universal"
+	],
+	"dependencies": {
+		"jouca.badgesapi": ">=v1.4.1",
+		"geode.node-ids": ">=v1.23.3",
+		"prevter.imageplus": ">=v1.1.0"
+	},
+	"resources": {
+		"files": [
+			"resources/audio/*.mp3",
+			"resources/extra/loading.gif",
+			"resources/*.md"
+		],
+		"sprites": [
+			"resources/badges/*.png",
+			"resources/streaks/*.png",
+			"resources/buttons/*.png",
+			"resources/extra/*.png",
+			"resources/banners/*.png",
+			"resources/chest/*.png",
+			"previews/*.png"
+		]
+	}
+}
